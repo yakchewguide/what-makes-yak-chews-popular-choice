@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap Location
-Sitemap: https://yourwebsite.com/sitemap.xml
+Sitemap: https://what-makes-yak-chews-a-popular-choice.vercel.app/sitemap.xml
 
 # Google Bot
 User-agent: Googlebot
